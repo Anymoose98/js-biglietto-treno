@@ -21,3 +21,4 @@ Logica
   3b 40% sconto per over 65
   3c Nessuno sconto
 4. Esporre il costo con massimo due decimali
+
